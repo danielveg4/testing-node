@@ -1,0 +1,22 @@
+{
+  "name": "testing-node",
+  "version": "1.0.0",
+  "description": "first steps node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielveg4/testing-node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "dani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielveg4/testing-node/issues"
+  },
+  "homepage": "https://github.com/danielveg4/testing-node#readme"
+}
